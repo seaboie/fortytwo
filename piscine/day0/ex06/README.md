@@ -4,6 +4,8 @@
 
 ## command line  
 ```bash
-find . -type f  | git check-ignore --stdin  
+find . -type f  | git check-ignore --stdin | cat -e
 ```  
-![code5](https://github.com/seaboie/flutter_trick/assets/96678854/c21e1cb9-9774-41ea-86ef-1edd32fe16ad)  
+![code10](https://github.com/seaboie/flutter_trick/assets/96678854/7e8e7209-1caa-45b5-a48f-b49216a074f9)  
+
+
